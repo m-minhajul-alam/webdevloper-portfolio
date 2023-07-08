@@ -14,7 +14,13 @@ body {
     color: #fff;
     font-size: 20px;
     font-weight: 700;
-    padding: 18px 35px;
+    padding: 15px 35px;
+}
+
+/* hrader related styles */
+.header {
+    background-color: #FFFDF3;
+    padding: 30px 30px 0px 100px;
 }
 
 /* nav related styles */
@@ -43,4 +49,15 @@ nav li {
 
 nav a {
     text-decoration: none;
+}
+
+/* banner related styles */
+.banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.banner .profile-pic {
+    width: 500px;
 }
