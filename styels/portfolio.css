@@ -125,7 +125,19 @@ main {
 
 .about-info-container .info-title{
     margin-bottom: 0px;
+    color: #181818;
 }
 .about-info-container .info-description{
     margin-top: 5px;
+}
+
+/* what i do section style */
+.what-i-do-head{
+    text-align: center;
+}
+.what-i-do-head .wid-wid-title{
+    color: #181818;
+}
+.what-i-do-head .wid-description{
+    color: #757575;
 }
