@@ -225,7 +225,7 @@ main {
 }
 
 .footer-items {
-    display: block;
+    width: 50%;
 }
 
 .footer-items-title {}
@@ -236,10 +236,12 @@ main {
     margin-right: 15px;
 }
 
-.ooter-items-input {
-    display: block;
+.input-from input[type="text"], input[type="email"], textarea {
     border-radius: 5px;
-    background: #FFF;
+    margin-bottom: 20px;
+    border: 0px;
+    padding: 18px 35px;
+    width: 100%;
 }
 
 #submit {}
