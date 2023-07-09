@@ -171,3 +171,47 @@ main {
 .skill-description {
     color: #757575;
 }
+
+/* resume section style */
+.section-title {
+    margin-top: 130px;
+    margin-bottom: 50px;
+    color: #181818);
+    text-align: center;
+}
+
+.resume-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.resume-colam-title {}
+
+.resume-colam {
+    padding: 50px;
+}
+
+.resuresume-colamme-iteme-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.resume-iteme-institute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-iteme-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#btn-resume {
+    text-align: center;
+    margin-top: 10px;
+}
